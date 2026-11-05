@@ -1,0 +1,4 @@
+input_reading.c:11:6:button_reading	24	static
+input_reading.c:22:15:is_button_pressed	32	static,ignoring_inline_asm
+input_reading.c:28:15:is_button_held	16	static
+input_reading.c:31:15:is_button_pressed_1s	16	static

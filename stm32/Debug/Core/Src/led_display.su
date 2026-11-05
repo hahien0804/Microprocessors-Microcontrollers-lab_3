@@ -1,0 +1,8 @@
+led_display.c:40:6:setRoadLight	24	static
+led_display.c:47:6:setColorBothRoads	32	static
+led_display.c:57:13:display7SEG	24	static
+led_display.c:65:13:disableAll7SEG	16	static
+led_display.c:71:13:update7SEG	16	static
+led_display.c:77:6:setDisplayValues	16	static
+led_display.c:88:6:led_display_init	8	static
+led_display.c:94:6:led_display_run	8	static

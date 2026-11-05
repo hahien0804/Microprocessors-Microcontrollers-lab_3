@@ -1,0 +1,13 @@
+input_processing.c:34:13:traffic_output	8	static
+input_processing.c:44:13:traffic_display	16	static
+input_processing.c:55:13:traffic_enterPhase	16	static
+input_processing.c:67:13:traffic_start	8	static
+input_processing.c:73:13:traffic_tick	16	static
+input_processing.c:86:12:colorOfMode	16	static
+input_processing.c:95:12:durationOfMode	16	static
+input_processing.c:105:12:saveDuration	16	static
+input_processing.c:116:13:modify_display	8	static
+input_processing.c:120:13:modify_enter	16	static
+input_processing.c:130:13:increaseValue	8	static
+input_processing.c:136:6:fsm_init	8	static
+input_processing.c:140:6:fsm_for_input_processing	16	static
